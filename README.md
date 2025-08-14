@@ -67,6 +67,5 @@ dataset=b
 ,offset= +1
 ,id=SUBJID
 );
-~~~
-
 run;
+~~~
