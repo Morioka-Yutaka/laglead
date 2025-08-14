@@ -12,7 +12,7 @@ Purpose:
 Parameters:  
 ~~~text
   dataset=  Input dataset name (REQUIRED). Typically, specify the exact same  
-            dataset as the one used in the  DATA step窶冱 SET statement;  
+            dataset as the one used in the  DATA step SET statement;  
   var=      Target variable to shift/copy (REQUIRED)  
   offset=   Integer only. Negative=lag, Positive=lead, default -1. Decimals not allowed  
   id=       Optional group ID (SINGLE variable only). When specified, the dataset  
