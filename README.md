@@ -41,6 +41,8 @@ Examples:
   run;
 ~~~
 
+<img width="206" height="262" alt="Image" src="https://github.com/user-attachments/assets/9da12ef9-0e27-4ace-9838-08b01b1e3be8" />
+
 ~~~sas
 data b;
 SUBJID="A";VISITNUM=1;AVAL=10;output;
