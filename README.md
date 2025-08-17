@@ -1,7 +1,6 @@
 # laglead
 SAS utilities for dynamic lead/lag value access.
-
-![laglead](./laglead_small.png)
+![laglead](./laglead/blob/main/laglead_small.png)
 
 # %laglead()
 Purpose:
