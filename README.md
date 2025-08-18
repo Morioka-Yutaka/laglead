@@ -1,7 +1,7 @@
 # laglead
 SAS utilities for dynamic lead/lag value access.  
 
-<img width="180" height="180" alt="Image" src="https://github.com/user-attachments/assets/4fdc3e81-4584-4b0a-a285-2bae2f252f58" />
+<img width="300" height="300" alt="Image" src="https://github.com/user-attachments/assets/4fdc3e81-4584-4b0a-a285-2bae2f252f58" />
 
 # %laglead()
 Purpose:
