@@ -5,7 +5,7 @@ SAS utilities for dynamic lead/lag value access.
 # %laglead()
 Purpose:
   Creates shifted copies of variable `var` by looking up the value from the  
-  same dataset at ﾂｱoffset rows  based on row numbers. Negative offset = lag,  
+  same dataset at offset rows  based on row numbers. Negative offset = lag,  
   positive offset = lead, offset=0 points to the current row.  
 
 Parameters:  
